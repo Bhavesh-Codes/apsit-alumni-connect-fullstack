@@ -63,6 +63,9 @@ This platform is built with a secure backend API and a dynamic React frontend.
 
 ### 1. Backend Setup (`apsit-connect`)
 
+## Project Structure
+
+```
 src/
 ├── main/
 │   ├── java/
@@ -83,6 +86,8 @@ src/
             └── example/
                 └── alumniconnect/
                     └── AlumniConnectApplicationTests.java
+```
+
 
 1.  **Create Database:**
     * Log in to MySQL and create a new database:
